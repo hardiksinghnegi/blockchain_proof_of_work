@@ -1,11 +1,11 @@
-# Improving a proof of work consensus implementation in Python
-<https://sites.google.com/a/stonybrook.edu/sbcs535/projects/proof-of-work-consensus-py>
+# Implementation of a Blockchain system in Python and DistAlgo
+This is project was implemented as a part of course for Distributed Systems (Fall 2018) at Stony Brook University, under the guidance of Professor Annie Liu.
 
-
-## Authors
-* Shubham Jindal (SBU ID: 112129688)
-* Arun Swaminathan (SBU ID: 112044697)
-* Hardik Singh Negi (SBU ID: 111886786)
+## Frameworks and Languages Used
+* Python (3.5)
+* DistAlgo (https://github.com/DistAlgo)
+* D3.js
+* Shell
 
 ## How to Run Project
 * `constants.py` 
